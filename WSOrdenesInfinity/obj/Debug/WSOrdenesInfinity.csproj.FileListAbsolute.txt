@@ -1,0 +1,14 @@
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SWOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\bin\Debug\WSOrdenesInfinity.exe.config
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SWOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\bin\Debug\WSOrdenesInfinity.exe
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SWOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\bin\Debug\WSOrdenesInfinity.pdb
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SWOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\obj\Debug\WSOrdenesInfinity.csproj.AssemblyReference.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SWOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\obj\Debug\WSOrdenesInfinity.csproj.CoreCompileInputs.cache
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SWOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\obj\Debug\WSOrdenesInfinity.exe
+C:\Users\jramirez\Desktop\SuizaLab\Aplicaciones\SWOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\obj\Debug\WSOrdenesInfinity.pdb
+D:\WSOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\bin\Debug\WSOrdenesInfinity.exe.config
+D:\WSOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\bin\Debug\WSOrdenesInfinity.exe
+D:\WSOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\bin\Debug\WSOrdenesInfinity.pdb
+D:\WSOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\obj\Debug\WSOrdenesInfinity.csproj.AssemblyReference.cache
+D:\WSOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\obj\Debug\WSOrdenesInfinity.csproj.CoreCompileInputs.cache
+D:\WSOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\obj\Debug\WSOrdenesInfinity.exe
+D:\WSOrdenesInfinity\WSOrdenesInfinity\WSOrdenesInfinity\obj\Debug\WSOrdenesInfinity.pdb
